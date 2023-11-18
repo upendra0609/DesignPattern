@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Download/Software/jacson/jackson-core-jackson-core-2.15.0-rc2.zip!/jackson-core-jackson-core-2.15.0-rc2/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../../Download/Software/jacson/jackson-core-jackson-core-2.15.0-rc2.zip!/jackson-core-jackson-core-2.15.0-rc2/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
