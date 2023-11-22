@@ -1,4 +1,4 @@
-package com.udemy.designPattern.creational.builder;
+package com.udemy.designPattern.creational.BuilderDesign.builder;
 
 //A Product in builder pattern
 public class UserWebDTO implements UserDTO {

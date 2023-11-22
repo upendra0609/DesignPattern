@@ -1,4 +1,4 @@
-package com.udemy.designPattern.creational.builderWithInnerClass;
+package com.udemy.designPattern.creational.BuilderDesign.builderWithInnerClass;
 
 public class Address {
     private String houseNumber;

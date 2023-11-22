@@ -1,4 +1,4 @@
-package com.udemy.designPattern.creational.builder;
+package com.udemy.designPattern.creational.BuilderDesign.builder;
 
 import java.time.LocalDate;
 import java.time.Period;

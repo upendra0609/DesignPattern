@@ -1,4 +1,4 @@
-package com.udemy.designPattern.creational.builderWithInnerClass;
+package com.udemy.designPattern.creational.BuilderDesign.builderWithInnerClass;
 
 
 import java.time.LocalDate;
@@ -13,12 +13,14 @@ public class Client {
 
     }
 
+    //this method serves the role of director in builder pattern.
     private static UserDTO directBuild(UserDTO.UserDTOBuilder builder, User user) {
         return builder.withFirstName(user.getFirstName()).withLastName(user.getLastName())
                 .withAddress(user.getAddress()).withBirthDay(user.getBirthDay())
                 .build();
     }
 
+    //return a sample user
     public static User createUser() {
         User user = new User();
         user.setBirthDay(LocalDate.of(1960, 5, 13));
