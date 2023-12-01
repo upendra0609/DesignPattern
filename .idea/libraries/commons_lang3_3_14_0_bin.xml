@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.14.0-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Download/Software/StringScapeUtils/commons-lang3-3.14.0-bin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
